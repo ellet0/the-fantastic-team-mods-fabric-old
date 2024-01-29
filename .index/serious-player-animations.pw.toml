@@ -1,0 +1,14 @@
+name = "Serious Player Animations"
+filename = "seriousplayeranimations-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Fq4tBIiz/versions/4P6WaLwU/seriousplayeranimations-1.0.1.jar"
+hash-format = "sha512"
+hash = "b28b0a038e164f88f619ae9f699f66432f37c0fcdd6053e35fda16a13d397cc4b0ee233f71e672256987b496f28c959c6d7712098505ba1e58ba4a83ca303b57"
+
+[update]
+[update.modrinth]
+mod-id = "Fq4tBIiz"
+version = "4P6WaLwU"
